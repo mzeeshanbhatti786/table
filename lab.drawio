@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="SwZ6dIdbOvHquv24YvXZ">
+    <mxGraphModel dx="860" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aBSxFaM87MMEefFMGVyF-3" edge="1" parent="1" source="aBSxFaM87MMEefFMGVyF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aBSxFaM87MMEefFMGVyF-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aBSxFaM87MMEefFMGVyF-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="start" vertex="1">
+          <mxGeometry height="60" width="100" x="360" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aBSxFaM87MMEefFMGVyF-5" edge="1" parent="1" source="aBSxFaM87MMEefFMGVyF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aBSxFaM87MMEefFMGVyF-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aBSxFaM87MMEefFMGVyF-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="enter input you age" vertex="1">
+          <mxGeometry height="60" width="120" x="341" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aBSxFaM87MMEefFMGVyF-8" edge="1" parent="1" source="aBSxFaM87MMEefFMGVyF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBSxFaM87MMEefFMGVyF-9" edge="1" parent="1" source="aBSxFaM87MMEefFMGVyF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="521" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBSxFaM87MMEefFMGVyF-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="is age less than 12" vertex="1">
+          <mxGeometry height="80" width="80" x="360" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="aBSxFaM87MMEefFMGVyF-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="end" vertex="1">
+          <mxGeometry height="60" width="100" x="340" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="aBSxFaM87MMEefFMGVyF-11" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="aBSxFaM87MMEefFMGVyF-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="440" />
+              <mxPoint x="520" y="510" />
+            </Array>
+            <mxPoint x="521" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBSxFaM87MMEefFMGVyF-12" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" target="aBSxFaM87MMEefFMGVyF-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="519" />
+            </Array>
+            <mxPoint x="270" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aBSxFaM87MMEefFMGVyF-13" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="grant half ticket" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="aBSxFaM87MMEefFMGVyF-14" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="grant full ticket" vertex="1">
+          <mxGeometry height="60" width="120" x="461" y="380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
